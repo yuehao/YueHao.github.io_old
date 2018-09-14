@@ -12,13 +12,28 @@
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost/wordpress</link>
 	<description>Nonlinearity, HP computation and Statistical learning</description>
-	<lastBuildDate>Mon, 10 Sep 2018 21:23:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Sep 2018 03:21:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
-		<title>DOE NP funds</title>
+		<title>DOE HEP Accelerator Stewardship Awarded</title>
+		<link>http://localhost/wordpress/2018/09/14/doe-hep-accelerator-stewardship-awarded/</link>
+		<comments>http://localhost/wordpress/2018/09/14/doe-hep-accelerator-stewardship-awarded/#respond</comments>
+		<pubDate>Fri, 14 Sep 2018 03:17:47 +0000</pubDate>
+		<dc:creator><![CDATA[yuehao]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/</guid>
+		<description><![CDATA[Our group is awarded Accelerator Stewardship program  of DOE High energy physics, on the research work of nonlinear dynamics study using square matrix method.]]></description>
+				<content:encoded><![CDATA[<p>Our group is awarded Accelerator Stewardship program  of DOE High energy physics, on the research work of nonlinear dynamics study using <a href="https://arxiv.org/abs/1809.02734">square matrix method</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/wordpress/2018/09/14/doe-hep-accelerator-stewardship-awarded/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DOE NP funds awarded</title>
 		<link>http://localhost/wordpress/2018/08/07/doe-np-funds/</link>
 		<comments>http://localhost/wordpress/2018/08/07/doe-np-funds/#respond</comments>
 		<pubDate>Tue, 07 Aug 2018 01:39:00 +0000</pubDate>
@@ -30,6 +45,21 @@
 				<content:encoded><![CDATA[<p>Our group is supported by NP FOA funds, towards understanding beam-beam effect of future electron-ion collider.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://localhost/wordpress/2018/08/07/doe-np-funds/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New Students</title>
+		<link>http://localhost/wordpress/2018/07/01/new-students/</link>
+		<comments>http://localhost/wordpress/2018/07/01/new-students/#respond</comments>
+		<pubDate>Sun, 01 Jul 2018 00:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[yuehao]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/</guid>
+		<description><![CDATA[MSU Graduate student Michael Balcewicz and Elliot Lu joined the group as Graduate Student Research Assistant.]]></description>
+				<content:encoded><![CDATA[<p>MSU Graduate student Michael Balcewicz and Elliot Lu joined the group as Graduate Student Research Assistant.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/wordpress/2018/07/01/new-students/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
